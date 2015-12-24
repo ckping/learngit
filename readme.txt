@@ -6,3 +6,6 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 merge without FF
 merge with FF
+test3
+test1
+test2

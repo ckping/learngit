@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 merge without FF
 merge with FF
+Need to revert.
